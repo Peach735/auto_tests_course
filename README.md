@@ -1,2 +1,2 @@
-# auto_tests_course
-homework &amp; projects
+Всем привет, это мой путь в автоматизацию тестов.
+
